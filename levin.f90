@@ -8,7 +8,7 @@ implicit none
 real(dp) a,b,r,d,res1,res2,res,x,aterm,u1term,xarg
 
 
-integer, parameter :: nn7=80
+integer, parameter :: nn7=240
 
 
 integer jin,n,n2,i,l,j
