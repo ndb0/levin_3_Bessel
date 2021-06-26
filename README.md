@@ -7,7 +7,7 @@
 ```javascript
 beslj(in1,mm x)*beslj(in2,nn x)*beslj(in3,pp x)
 ```
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+First Function | Second Function | Third Function
+------------ | ------------- | --------------
+index: in1 | index: in2 | index: in3
+frequency: m |frequency: n | frequency: p
