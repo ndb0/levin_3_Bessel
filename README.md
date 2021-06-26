@@ -12,4 +12,4 @@ First Function | Second Function | Third Function
 index: in1 | index: in2 | index: in3
 frequency: m |frequency: n | frequency: p
 
-**All the indexes and frequncies are real**
+**All the indexes and frequncies are of real kind not integer**
