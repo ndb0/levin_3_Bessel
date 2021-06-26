@@ -5,5 +5,5 @@
 *form of the integrand: beslj(in1,mm x)*beslj(in2,nn x)*beslj(in3,pp x)
 
 ```javascript
-
+beslj(in1,mm x)*beslj(in2,nn x)*beslj(in3,pp x)
 ```
